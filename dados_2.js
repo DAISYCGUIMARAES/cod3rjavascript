@@ -9,5 +9,5 @@ let nome = "Caderno";
 let categoria = "Papelaria";
 console.log("Produto: " + nome
     + ", Categoria: " + categoria
-    + ", Preço: " + preco
+    + ", Preçoo: " + preco
     +", Desconto: " + desconto);
